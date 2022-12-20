@@ -7,5 +7,5 @@
 - - php artisan migrate
 - - php artisan serve
 
-# After that go to the url;
+## After that go to the url
 - localhost:8000
